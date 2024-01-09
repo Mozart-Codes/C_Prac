@@ -11,7 +11,7 @@ int main(){
     for(int i=0;i<s;i++){
         scanf("%f", &ptr[i]);
     }
-    printf("\n\n Printing prices stored\n");
+    printf("\n\n Printing prices stored\n"); //This is a comment!
     for(int i=0;i<s;i++){
         printf("%f\t",ptr[i]);
     }
